@@ -12,7 +12,7 @@ Request New Icons by adding them in below CheckList
 - [x] Steam
 - [x] Epic Games
 - [x] Blender
-- [ ] MS Office
+- [x] MS Office
 - [ ] Google
 - [ ] ISO 
 - [ ] Java
