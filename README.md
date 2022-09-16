@@ -9,7 +9,7 @@ Request New Icons by adding them in below CheckList
 - [x] Git
 - [x] android
 - [x] Android Studio
-- [ ] Steam
+- [x] Steam
 - [ ] Epic Games
 - [ ] Blender
 - [ ] MS Office
