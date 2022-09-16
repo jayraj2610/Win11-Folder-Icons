@@ -16,8 +16,8 @@ Request New Icons by adding them in below CheckList
 - [x] Google
 - [x] ISO 
 - [x] Java
-- [ ] OneDrive 1
-- [ ] OneDrive 2
+- [x] OneDrive 1
+- [x] OneDrive 2
 - [ ] Music 1
 - [ ] Music 2
 - [ ] Fonts
