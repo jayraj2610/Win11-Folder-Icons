@@ -11,7 +11,7 @@ Request New Icons by adding them in below CheckList
 - [x] Android Studio
 - [x] Steam
 - [x] Epic Games
-- [ ] Blender
+- [x] Blender
 - [ ] MS Office
 - [ ] Google
 - [ ] ISO 
