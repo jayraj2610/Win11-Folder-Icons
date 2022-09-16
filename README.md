@@ -33,5 +33,5 @@ Request New Icons by adding them in below CheckList
 - [x] Backups
 - [x] Unreal Engine
 - [x] Unreal Engine new
-- [ ] Unity
+- [x] Unity
 <!--  <br/> -->
