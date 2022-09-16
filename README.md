@@ -13,7 +13,7 @@ Request New Icons by adding them in below CheckList
 - [x] Epic Games
 - [x] Blender
 - [x] MS Office
-- [ ] Google
+- [x] Google
 - [ ] ISO 
 - [ ] Java
 - [ ] OneDrive 1
