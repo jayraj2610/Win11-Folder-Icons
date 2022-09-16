@@ -7,8 +7,8 @@ Request New Icons by adding them in below CheckList
 
 - [x] GitHub
 - [x] Git
-- [ ] android
-- [ ] Android Studio
+- [x] android
+- [x] Android Studio
 - [ ] Steam
 - [ ] Epic Games
 - [ ] Blender
