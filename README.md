@@ -30,5 +30,5 @@ Request New Icons by adding them in below CheckList
 - [x] VS Code
 - [x] Visual Studio
 - [x] Builds
-- [ ] Backups
+- [x] Backups
 <!--  <br/> -->
