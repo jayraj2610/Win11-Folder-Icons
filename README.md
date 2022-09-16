@@ -10,7 +10,7 @@ Request New Icons by adding them in below CheckList
 - [x] android
 - [x] Android Studio
 - [x] Steam
-- [ ] Epic Games
+- [x] Epic Games
 - [ ] Blender
 - [ ] MS Office
 - [ ] Google
