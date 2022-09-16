@@ -20,7 +20,7 @@ Request New Icons by adding them in below CheckList
 - [x] OneDrive 2
 - [x] Music 1
 - [x] Music 2
-- [ ] Fonts
+- [x] Fonts
 - [ ] Games 1
 - [ ] Games 2
 - [ ] Marvel Movies
