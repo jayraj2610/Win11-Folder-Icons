@@ -27,7 +27,7 @@ Request New Icons by adding them in below CheckList
 - [x] Movies
 - [x] Softwere Setups
 - [x] Windows
-- [ ] VS Code
+- [x] VS Code
 - [ ] Visual Studio
 - [ ] Builds
 - [ ] Backups
