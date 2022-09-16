@@ -14,7 +14,7 @@ Request New Icons by adding them in below CheckList
 - [x] Blender
 - [x] MS Office
 - [x] Google
-- [ ] ISO 
+- [x] ISO 
 - [ ] Java
 - [ ] OneDrive 1
 - [ ] OneDrive 2
