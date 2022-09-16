@@ -21,8 +21,8 @@ Request New Icons by adding them in below CheckList
 - [x] Music 1
 - [x] Music 2
 - [x] Fonts
-- [ ] Games 1
-- [ ] Games 2
+- [x] Games 1
+- [x] Games 2
 - [ ] Marvel Movies
 - [ ] Movies
 - [ ] Softwere Setups
