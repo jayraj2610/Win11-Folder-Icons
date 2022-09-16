@@ -5,8 +5,8 @@
 
 Request New Icons by adding them in below CheckList
 
-- [ ] GitHub
-- [ ] Git
+- [x] GitHub
+- [x] Git
 - [ ] android
 - [ ] Android Studio
 - [ ] Steam
