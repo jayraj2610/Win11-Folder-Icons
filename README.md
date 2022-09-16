@@ -18,8 +18,8 @@ Request New Icons by adding them in below CheckList
 - [x] Java
 - [x] OneDrive 1
 - [x] OneDrive 2
-- [ ] Music 1
-- [ ] Music 2
+- [x] Music 1
+- [x] Music 2
 - [ ] Fonts
 - [ ] Games 1
 - [ ] Games 2
