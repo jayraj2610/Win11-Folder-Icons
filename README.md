@@ -34,4 +34,5 @@ Request New Icons by adding them in below CheckList
 - [x] Unreal Engine
 - [x] Unreal Engine new
 - [x] Unity
+- [x] Texture Folders
 <!--  <br/> -->
