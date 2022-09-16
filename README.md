@@ -3,6 +3,7 @@
  <br><br>
  [![Issues](https://img.shields.io/github/issues/jayraj2610/Win11-Folder-Icons)](#issues)
     ![GitHub repo file count (custom path)](https://img.shields.io/github/directory-file-count/jayraj2610/Win11-Folder-Icons/ICONS)
+    ![GitHub Repo stars](https://img.shields.io/github/stars/jayraj2610/Win11-Folder-Icons?style=plastic)
 
 If you like my icon pack Dont forget To give Star 😊
 
