@@ -24,7 +24,7 @@ Request New Icons by adding them in below CheckList
 - [x] Games 1
 - [x] Games 2
 - [x] Marvel Movies
-- [ ] Movies
+- [x] Movies
 - [ ] Softwere Setups
 - [ ] Windows
 - [ ] VS Code
