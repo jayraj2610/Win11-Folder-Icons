@@ -3,6 +3,8 @@
  <br><br>
  [![Issues](https://img.shields.io/github/issues/jayraj2610/Win11-Folder-Icons)](#issues)
 
+If you like my icon pack Dont forget To give Star 😊
+
 Request New Icons by adding them in below CheckList
 
 - [x] GitHub
