@@ -23,7 +23,7 @@ Request New Icons by adding them in below CheckList
 - [x] Fonts
 - [x] Games 1
 - [x] Games 2
-- [ ] Marvel Movies
+- [x] Marvel Movies
 - [ ] Movies
 - [ ] Softwere Setups
 - [ ] Windows
