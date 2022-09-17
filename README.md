@@ -44,5 +44,6 @@ Request New Icons by adding them in below CheckList
 - [x] User Folder 2
 - [x] User Folder 3
 - [x] Favourite Folder 
+- [x] images Folder
 
 <!--  <br/> -->
