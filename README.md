@@ -46,5 +46,6 @@ Request New Icons by adding them in below CheckList
 - [x] Favourite Folder 
 - [x] images Folder
 - [x] Documents Folder
+- [x] Valorant Folder
 
 <!--  <br/> -->
